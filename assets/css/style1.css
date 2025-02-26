@@ -50,3 +50,6 @@ padding: 20px;
 .shubham{
     padding-top: 100px;
 }
+.data-list{
+    list-style:decimal;
+}
