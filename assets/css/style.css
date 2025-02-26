@@ -12633,7 +12633,7 @@ header.header-full-width.header--sticky.sticky {
 }
 .banner-one-main-wrapper .banner-right-content .banner-big-text-2 {
   position: absolute;
-  bottom: 190px;
+  bottom: 10px;
   left: 0px;
   font-size: 48px;
   line-height: 1.2;
